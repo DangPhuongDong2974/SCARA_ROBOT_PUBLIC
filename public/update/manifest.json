@@ -1,0 +1,6 @@
+{
+  "version": "2.9.3",
+  "downloadUrl": "https://github.com/DangPhuongDong2974/SCARA_ROBOT_PUBLIC/releases/download/v2.9.3/SCARA-Studio-2.9.3-win-x64.zip",
+  "sha256": "ad983125d960b38aeb033edaa700854ab59cc9ee7a1cbff8af4a26e61a0cf99f",
+  "notes": "# SCARA Studio 2.9.3\r\n\r\n- Expanded Settings → Mechanics with editable joint soft limits, geometry, transmission settings, measured pulse calibration, and TCP/OPR reference height.\r\n- Updated Q2/Z calibrated travel to 0–150 mm for 0–675000 pulses (4500 pulses/mm).\r\n- Manual, Point-to-Point and Path Following share one Robot Model; use simulation when PLC is disconnected and hardware control when connected.\r\n- Fixed offline Path Following to interpolate the full joint-space path continuously without restarting easing at every waypoint; PLC QD75 motion remains unchanged.\r\n- Removed the temporary Mechanics stick-diagram reference images.\r\n- Preserved existing Windows installer and UPDATE VERSION channel. Verify on the real robot before use."
+}
